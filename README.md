@@ -2,7 +2,7 @@
 
 Overview 
 
-This project provides a demonstration of basic ATM functionalities implemented on Ethereum and Avalanche blockchains. It consists of two main components: a React frontend for interacting with the smart contract and a Solidity smart contract implementing the ATM functionalities.
+This project is an example of how basic ATM features are implemented on the Avalanche and Ethereum blockchains. It is composed of two primary parts: a Solidity smart contract that implements the ATM capabilities, and a React frontend that allows user interaction with the smart contract.
 
 ## Requirements
 To interact with the smart contract, you'll need:
@@ -11,10 +11,10 @@ To interact with the smart contract, you'll need:
 * Basic understanding of Ethereum and Avalanche blockchain ecosystems
 
 ## Usage
-1. Ensure you have MetaMask installed for Ethereum interaction.
-2. Deploy the provided Solidity smart contract on a compatible Ethereum or Avalanche network.
-3. Connect your MetaMask wallet to the deployed smart contract.
-4. Interact with the ATM functionalities through the provided React frontend.
+1. Make sure MetaMask is installed in order to communicate with Ethereum.
+2. Install the given Solidity smart contract on an Avalanche or Ethereum network that is compatible.
+3. Link your MetaMask wallet to the smart contract that has been deployed.
+4. Use the given React frontend to interact with the ATM's features.
 
 ## Smart Contract Details 
 The Solidity smart contract implements basic ATM functionalities including deposit and withdrawal operations. It also includes error handling for insufficient balance during withdrawal.
@@ -63,7 +63,7 @@ Custom Error
 * Then click the link provided below or you can manually go there by typing http://localhost:3000/
 
 ## Authors
-David Joshua B. Bucol
+Regie R. Prieto
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
